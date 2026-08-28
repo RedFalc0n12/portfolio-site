@@ -1,0 +1,7 @@
+Coloque aqui suas imagens (ex: foto de perfil, ícones, etc.) caso queira usá-las no site.
+
+Para adicionar uma foto de perfil na seção de Apresentação, por exemplo:
+1. Salve a imagem nesta pasta, ex: assets/img/foto.jpg
+2. No arquivo index.php, dentro da seção <section id="apresentacao">, adicione:
+   <img src="assets/img/foto.jpg" alt="Foto de [seu nome]" class="capa__foto">
+3. Ajuste o estilo dela em assets/css/style.css conforme preferir.
